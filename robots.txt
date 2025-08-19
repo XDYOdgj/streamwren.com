@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://streamwren.com/sitemap.xml
